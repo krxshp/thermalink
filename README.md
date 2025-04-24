@@ -22,4 +22,3 @@ Thermalink is an alpha prototype designed for kitchen safety. It is targeted for
 * The MLX90614-BAA detects temperatures accurately from a distance, yet still pretty close due to high FOV. In the future, this can be upgraded with a lens to make the FOV smaller, similar to the MLX90614-DCI variant.
 * Features a cooking mode through the app or from the press of a button to ensure it does not alert when the patient is cooking.
 * Set to ring if the stove is above 50 degrees Celcius for an extended period of time when not in cooking mode.
-* This prototype was made in April 2025, but uploaded to this repo in July 2026.
